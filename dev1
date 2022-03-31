@@ -1,0 +1,8 @@
+What happens when you type in http://www.cnn.com in your browser?
+
+The communication between your client and a web server can be divided into the following components.
+Assumptions: You are on a Linux client and trying to connect from your Comcast home cable connection.
+
+– DNS
+– Network communication
+– HTTP
